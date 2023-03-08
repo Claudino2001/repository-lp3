@@ -1,0 +1,8 @@
+C:\Users\gacla\source\repos\projHP\projHP\bin\Debug\projHP.exe.config
+C:\Users\gacla\source\repos\projHP\projHP\bin\Debug\projHP.exe
+C:\Users\gacla\source\repos\projHP\projHP\bin\Debug\projHP.pdb
+C:\Users\gacla\source\repos\projHP\projHP\obj\Debug\projHP.csproj.AssemblyReference.cache
+C:\Users\gacla\source\repos\projHP\projHP\obj\Debug\projHP.csproj.SuggestedBindingRedirects.cache
+C:\Users\gacla\source\repos\projHP\projHP\obj\Debug\projHP.csproj.CoreCompileInputs.cache
+C:\Users\gacla\source\repos\projHP\projHP\obj\Debug\projHP.exe
+C:\Users\gacla\source\repos\projHP\projHP\obj\Debug\projHP.pdb
